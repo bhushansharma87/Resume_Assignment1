@@ -1,0 +1,92 @@
+body{
+    color: Black;
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: skyblue;
+}
+.left{
+    top: 20px;
+    left: 34px;
+    position: absolute;
+    display: inline-block;
+    /* border: 2px solid red; */
+}
+.mid{
+    display: block;
+    top: 0px;
+    width: 25%;
+    margin: 5px auto;
+    /* border: 2px solid red; */
+}
+.right{
+    position: absolute;
+    right: 34px;
+    top: 20px;
+    display: inline-block;
+    /* border: 2px solid red; */
+}
+.right div{
+    text-align: center;
+}
+.su h2{
+    background-color: antiquewhite;
+}
+.edu h2{
+    background-color: antiquewhite;
+}
+
+table{
+    border-collapse: collapse;
+    margin-left: 0px;
+    text-align: center;
+}
+
+tr,th, td{
+    width: 2%;
+    border: 0px groove white;
+}
+
+/* hr {  
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    width: 5%;
+  } */
+
+.pro{
+    background-color: antiquewhite;
+}
+
+.sf{
+    padding-left: 76%;
+}
+
+.ten{
+    padding-left: 80%;
+}
+
+.ts{
+    background-color: antiquewhite;
+}
+
+.skills{
+    background-color: antiquewhite;
+}
+
+.certi{
+    background-color: antiquewhite;
+}
+
+.yr{
+    padding-left: 76%;
+}
+
+.achiv{
+    background-color: antiquewhite;
+}
+.lp{
+    background-color: antiquewhite;
+}
